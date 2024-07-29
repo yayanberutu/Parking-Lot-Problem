@@ -8,8 +8,8 @@ import org.example.service.ParkingLotService;
 import java.util.Scanner;
 
 /**
- * @author Yosepri Disyandro Berutu (yosepri.disyandro@dana.id)
- * @version $Id: ${NAME}.java , v 0.1 2024-07-22 13.31 Yosepri Disyandro Berutu Exp $$
+ * @author Yosepri Disyandro Berutu (yosepri.berutu@binus.ac.id)
+ * @version $Id: Main.java , v 0.1 2024-07-22 13.31 Yosepri Disyandro Berutu Exp $$
  */
 public class Main {
 
